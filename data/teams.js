@@ -16,7 +16,7 @@ export const teams = [
                 name: "Ayan Ali",
                 fathersName: "Ghulam Ali",
                 contactNumber: "+923 5543 75995",
-                picture: "/HKS/PLAYERS_PICTURES/AYAN.png",
+                picture: "/HKS/PLAYERS_PICTURES/Ayan.jpeg",
                 bFormPicture: "/HKS/PLAYERS_DOCUMENTS/AYAN.jpeg",
                 bFormNumber: "71403-0358501-7",
                 dateOfBirth: "2014-01-10",

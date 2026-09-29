@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
           <div className="headerAlign">
             <div className="headerLogo">
               <Image
-                src="/Logo.PNG"
+                src="/Logo.png"
                 alt="Website Logo"
                 width={100}
                 height={100}
