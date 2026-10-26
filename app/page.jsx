@@ -28,6 +28,7 @@ function TeamCard({ team }) {
           </div>
         </div>
       </button>
+      <span className="text-gray-800 mb-5">{team.id}</span>
 
       {/* Hidden Players Container */}
       {showPlayerSix && (
