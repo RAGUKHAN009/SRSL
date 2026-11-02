@@ -3832,5 +3832,279 @@ export const teams = [
             }
         ]
     },
+    //    ==================== TEAM 31 ====================
+    // OSHIKHANDAS JK 6
+    {
+        id: "team-31",
+        teamName: "Al Rahim FC",
+        teamLogo: "/TEAM31/TEAM31.jpeg",
+        teamCoach: "Shahzaib Alam",
+        coachNumber: "3555282434",
+        jkLocation: "Al Rahim FC",
+        teamGSL: "JKGSL",
+
+        teamPlayers: [
+            {
+                id: "player-1-t31",
+                name: "Ayan Arish",
+                fathersName: "Faqeer Husnain",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/AYAN-ARISH.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/AYAN-ARISH.jpeg",
+                bFormNumber: "",
+                dateOfBirth: "2014-08-23",
+                age: calculateAge("2014-08-23")
+            },
+            {
+                id: "player-2-t31",
+                name: "Azan Liaqat",
+                fathersName: "Laiqat Ali",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/AZAN-LIAQAT.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/AZAN-LIAQAT.jpeg",
+                bFormNumber: "7150106205479",
+                dateOfBirth: "2014-07-07",
+                age: calculateAge("2014-07-07")
+            },
+            {
+                id: "player-3-t31",
+                name: "Zurraiz Ali",
+                fathersName: "Ikram Ullah",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/ZURRAIZ-ALI.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/ZURRAIZ-ALI.jpeg",
+                bFormNumber: "",
+                dateOfBirth: "2017-03-01",
+                age: calculateAge("2017-03-01")
+            },
+            {
+                id: "player-4-t31",
+                name: "Ammab Farman",
+                fathersName: "Share Farman",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/AMMAB-FARMAN.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/AMMAB-FARMAN.jpeg",
+                bFormNumber: "",
+                dateOfBirth: "2017-03-06",
+                age: calculateAge("2017-03-06")
+            },
+            {
+                id: "player-5-t31",
+                name: "Melad Shams",
+                fathersName: "Sham Uddin",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/MELAD-SHAMS.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/MELAD-SHAMS.jpeg",
+                bFormNumber: "",
+                dateOfBirth: "2015-01-23",
+                age: calculateAge("2015-01-23")
+            },
+            {
+                id: "player-6-t31",
+                name: "Jahnanzaib Alam",
+                fathersName: "Naik Alam",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/JAHANZAIB-ALAM.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/JAHANZAIB-ALAM.jpeg",
+                bFormNumber: "7150119995373",
+                dateOfBirth: "2017-04-01",
+                age: calculateAge("2017-04-01")
+            }
+        ],
+
+        substitutePlayers: [
+            {
+                id: "substitutePlayer-1-t31",
+                name: "Aliyazdan",
+                fathersName: "Javeed Iqbal",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/ALIYAZDAN.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/ALIYAZDAN.jpeg",
+                bFormNumber: "7150186835535",
+                dateOfBirth: "2015-06-19",
+                age: calculateAge("2015-06-19")
+            },
+            {
+                id: "substitutePlayer-2-t31",
+                name: "Ansab Sahid",
+                fathersName: "Zahid Sharif",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/ANSAB-SAHID.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/ANSAB-SAHID.jpeg",
+                bFormNumber: "",
+                dateOfBirth: "2018-08-25",
+                age: calculateAge("2018-08-25")
+            }
+        ],
+
+        reservePlayers: [
+            {
+                id: "Reserveplayer-1-t31",
+                name: "Arish Ali",
+                fathersName: "Kabeer Ali",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/ARISH-ALI.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/ARISH-ALI.jpeg",
+                bFormNumber: "",
+                dateOfBirth: "2016-08-21",
+                age: calculateAge("2016-08-21")
+            },
+            {
+                id: "Reserveplayer-2-t31",
+                name: "Saddat Shams",
+                fathersName: "Sham Uddin",
+                contactNumber: "",
+                picture: "/TEAM31/PLAYERS_PICTURES/SADDAT-SHAMS.jpeg",
+                bFormPicture: "/TEAM31/PLAYERS_DOCUMENTS/SADDAT-SHAMS.jpeg",
+                bFormNumber: "",
+                dateOfBirth: "2016-07-01",
+                age: calculateAge("2016-07-01")
+            }
+        ]
+    },
+    //    ==================== TEAM 32 ====================
+    // AMINABAD JK 
+    // TTTHHHHHHHHIIIIIISSSSSSSSS IIIIIISSSSSSSSSSSS IIIIIIIIINNNNNNNNNNN-------CCCOOOOMMMMMMMPPPPPPPPPLLLLLLLLEEEEEETTTTTTTTTTEEEEEEE
+    {
+        id: "team-32",
+        teamName: "Aminabad JK",
+        teamLogo: "/TEAM32/TEAM32.jpeg",
+        teamCoach: "Shahzaib Alam",
+        coachNumber: "3555282434",
+        jkLocation: "Aminabad JK",
+        teamGSL: "JKGSL",
+    },
+    //    ==================== TEAM 33 ====================
+    // DANYOUOR JK 3 FC BANI SHOOTERS
+    {
+        id: "team-33",
+        teamName: "FC Ani Shooters",
+        teamLogo: "/TEAM33/TEAM33.jpeg",
+        teamCoach: "Saad Ali",
+        coachNumber: "3195068179",
+        jkLocation: "JK # 3 Danyore",
+        teamGSL: "JKGSL",
+
+        teamPlayers: [
+            {
+                id: "player-1-t33",
+                name: "Azman Ali",
+                fathersName: "Pyar Ali",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/AZMAN-ALI.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/AZMAN-ALI.jpeg",
+                bFormNumber: "71506-0341640-1",
+                dateOfBirth: "2014-08-04",
+                age: calculateAge("2014-08-04")
+            },
+            {
+                id: "player-2-t33",
+                name: "Irfan Khan",
+                fathersName: "Surum Khan",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/IRFAN-KHAN.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/IRFAN-KHAN.jpeg",
+                bFormNumber: "71404-0355281-9",
+                dateOfBirth: "2014-10-17",
+                age: calculateAge("2014-10-17")
+            },
+            {
+                id: "player-3-t33",
+                name: "Seyam Khan",
+                fathersName: "Khan Zada",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/SEYAM-KHAN.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/SEYAM-KHAN.jpeg",
+                bFormNumber: "71501-9375797-7",
+                dateOfBirth: "2015-12-18",
+                age: calculateAge("2015-12-18")
+            },
+            {
+                id: "player-4-t33",
+                name: "Alhan Baig",
+                fathersName: "Imam Yar Baig",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/ALHAN-BAIG.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/ALHAN-BAIG.jpeg",
+                bFormNumber: "71506-0341272-3",
+                dateOfBirth: "2014-12-10",
+                age: calculateAge("2014-12-10")
+            },
+            {
+                id: "player-5-t33",
+                name: "Rohan Karim",
+                fathersName: "Ajaz Karim",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/ROHAN-KARIM.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/ROHAN-KARIM.jpeg",
+                bFormNumber: "71501-8095348-1",
+                dateOfBirth: "2016-05-09",
+                age: calculateAge("2016-05-09")
+            },
+            {
+                id: "player-6-t33",
+                name: "Atif Fida",
+                fathersName: "Fida Hussain",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/ATIF-FIDA.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/ATIF-FIDA.jpeg",
+                bFormNumber: "71501-5844617-1",
+                dateOfBirth: "2014-12-05",
+                age: calculateAge("2014-12-05")
+            }
+        ],
+
+        substitutePlayers: [
+            {
+                id: "substitutePlayer-1-t33",
+                name: "Noor Ali",
+                fathersName: "Amir Ali",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/NOOR-ALI.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/NOOR-ALI.jpeg",
+                bFormNumber: "71501-7534805-3",
+                dateOfBirth: "2015-08-03",
+                age: calculateAge("2015-08-03")
+            },
+            {
+                id: "substitutePlayer-2-t33",
+                name: "Shanzada",
+                fathersName: "Naik Zada",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/SHANZADA.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/SHANZADA.jpeg",
+                bFormNumber: "71501-1420151-3",
+                dateOfBirth: "2014-10-31",
+                age: calculateAge("2014-10-31")
+            }
+        ],
+
+        reservePlayers: [
+            {
+                id: "Reserveplayer-1-t33",
+                name: "Hammad Aziz",
+                fathersName: "Abdul Aziz",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/HAMMAD-AZIZ.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/HAMMAD-AZIZ.jpeg",
+                bFormNumber: "71506-0352939-9",
+                dateOfBirth: "2014-10-22",
+                age: calculateAge("2014-10-22")
+            },
+            {
+                id: "Reserveplayer-2-t33",
+                name: "Amad Alam",
+                fathersName: "Muhammad Alam",
+                contactNumber: "",
+                picture: "/TEAM33/PLAYERS_PICTURES/AMAD-ALAM.jpeg",
+                bFormPicture: "/TEAM33/PLAYERS_DOCUMENTS/AMAD-ALAM.jpeg",
+                bFormNumber: "71501-0166715-3",
+                dateOfBirth: "2014-10-23",
+                age: calculateAge("2014-10-23")
+            }
+        ]
+    },
+    //    ==================== TEAM 34 ====================
+    // CHAMEN FC DANYOUR JK 6
 
 ];
