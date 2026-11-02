@@ -1211,11 +1211,11 @@ export const teams = [
     //     ]
     // },
     //    ==================== TEAM 10 ====================
-    // CENTERAL JK
+    // CENTERAL JK A
     {
         id: "team-10",
         teamName: "CJK SHAHEEN A",
-        teamLogo: "/TEAM10/CJK-SHAHEEN-A.png",
+        teamLogo: "/TEAM10/TEAM10.jpeg",
         teamCoach: "Sabil Karim",
         coachNumber: "3705152207",
         jkLocation: "",
@@ -1356,7 +1356,7 @@ export const teams = [
     {
         id: "team-11",
         teamName: "CJK SHAHEEN B",
-        teamLogo: "/TEAM11/CJK-SHAHEEN-B.png",
+        teamLogo: "/TEAM11/TEAM10.jpeg",
         teamCoach: "Shoaib Ali",
         coachNumber: "3554358627",
         jkLocation: "",
@@ -4105,6 +4105,12 @@ export const teams = [
         ]
     },
     //    ==================== TEAM 34 ====================
-    // CHAMEN FC DANYOUR JK 6
+    // DNAYOUR JK NAME NUMBER PATA NAHI KAL TAK HOJAYA A
+
+    //    ==================== TEAM 35 ====================
+    // KARIM TOWN A SAQLAIN MER GAYA HA
+
+    //    ==================== TEAM 36 ====================
+    // KARIM TOWN B SAQLAIN MER GAYA HA 
 
 ];
