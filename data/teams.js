@@ -4023,18 +4023,149 @@ export const teams = [
             }
         ]
     },
+
     //    ==================== TEAM 32 ====================
     // AMINABAD JK 
-    // THIS IS INCOMPLETE TEAM, NEED TO ADD PLAYERS
     {
         id: "team-32",
-        teamName: "Aminabad JK",
+        teamName: "Harram Ball United",
         teamLogo: "/TEAM32/TEAM32.jpeg",
-        teamCoach: "Shahzaib Alam",
-        coachNumber: "3555282434",
-        jkLocation: "Aminabad JK",
+        teamCoach: "Yazal Riaz",
+        coachNumber: "3155911944",
+        jkLocation: "Amin Abad Jutiyal",
         teamGSL: "JKGSL",
+
+        teamPlayers: [
+            {
+                id: "player-1-t32",
+                name: "Daniyal Amin",
+                fathersName: "Amin Sher",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/DANIYAL-AMIN.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/DANIYAL-AMIN.jpeg",
+                bFormNumber: "71501-6341883-9",
+                dateOfBirth: "2015-02-06",
+                age: calculateAge("2015-02-06")
+            },
+            {
+                id: "player-2-t32",
+                name: "Haider Yaqoob",
+                fathersName: "Jalal Haider",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/HAIDER-YAQOOB.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/HAIDER-YAQOOB.jpeg",
+                bFormNumber: "71501-2566112-5",
+                dateOfBirth: "2015-12-15",
+                age: calculateAge("2015-12-15")
+            },
+            {
+                id: "player-3-t32",
+                name: "Ahsan",
+                fathersName: "Niyat Murad",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/AHSAN.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/AHSAN.jpeg",
+                bFormNumber: "71402-2935200-1",
+                dateOfBirth: "2014-03-28",
+                age: calculateAge("2014-03-28")
+            },
+            {
+                id: "player-4-t32",
+                name: "Shamraiz",
+                fathersName: "Manzoor Karim",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/SHAMRAIZ.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/SHAMRAIZ.jpeg",
+                bFormNumber: "71501-1322484-5",
+                dateOfBirth: "2015-04-04",
+                age: calculateAge("2015-04-04")
+            },
+            {
+                id: "player-5-t32",
+                name: "Ezan",
+                fathersName: "Salman Farsi",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/EZAN.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/EZAN.jpeg",
+                bFormNumber: "71501-1301457-9",
+                dateOfBirth: "2015-09-15",
+                age: calculateAge("2015-09-15")
+            },
+            {
+                id: "player-6-t32",
+                name: "Rohan Karim",
+                fathersName: "Qurban Karim",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/ROHAN-KARIM.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/ROHAN-KARIM.jpeg",
+                bFormNumber: "37405-4523707-6",
+                dateOfBirth: "2014-10-13",
+                age: calculateAge("2014-10-13")
+            }
+        ],
+
+        substitutePlayers: [
+            {
+                id: "substitutePlayer-1-t32",
+                name: "Zeeshan Faraz",
+                fathersName: "Sir Faraz Khan",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/ZEESHAN-FARAZ.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/ZEESHAN-FARAZ.jpeg",
+                bFormNumber: "71501-2342239-5",
+                dateOfBirth: "2015-11-15",
+                age: calculateAge("2015-11-15")
+            },
+            {
+                id: "substitutePlayer-2-t32",
+                name: "Wajahat Ali Shah",
+                fathersName: "Shireen Jan",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/WAJAHAT-ALI-SHAH.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/WAJAHAT-ALI-SHAH.jpeg",
+                bFormNumber: "71401-8660135-7",
+                dateOfBirth: "2016-10-08",
+                age: calculateAge("2016-10-08")
+            }
+        ],
+
+        reservePlayers: [
+            {
+                id: "Reserveplayer-1-t32",
+                name: "Raheel Hameed",
+                fathersName: "Hammed Ullah",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/RAHEEL-HAMEED.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/RAHEEL-HAMEED.jpeg",
+                bFormNumber: "",
+                dateOfBirth: "2016-12-12",
+                age: calculateAge("2016-12-12")
+            },
+            {
+                id: "Reserveplayer-2-t32",
+                name: "Ammar",
+                fathersName: "Anwar Hayat",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/AMMAR.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/AMMAR.jpeg",
+                bFormNumber: "",
+                dateOfBirth: "2016-11-15",
+                age: calculateAge("2016-11-15")
+            },
+            {
+                id: "Reserveplayer-3-t32",
+                name: "Nihal Muhammad",
+                fathersName: "Muhammad Ali",
+                contactNumber: "",
+                picture: "/TEAM32/PLAYERS_PICTURES/NIHAL-MUHAMMAD.jpeg",
+                bFormPicture: "/TEAM32/PLAYERS_DOCUMENTS/NIHAL-MUHAMMAD.jpeg",
+                bFormNumber: "71501-7594661-8",
+                dateOfBirth: "2015-01-30",
+                age: calculateAge("2015-01-30")
+            }
+        ]
     },
+
     //    ==================== TEAM 33 ====================
     // DANYOUOR JK 3 FC BANI SHOOTERS
     {
@@ -4684,5 +4815,28 @@ export const teams = [
             }
         ]
     },
-
+    //    ==================== TEAM 38 ====================
+    // RAHIM ABAD
+    // incomplete
+    {
+        id: "team-38",
+        teamName: "BLACK HAWKS",
+        teamLogo: "/TEAM38/TEAM38.jpeg",
+        teamCoach: "Hasnain",
+        coachNumber: "+92 311 9776474",
+        jkLocation: "RAHIABAD JK 1",
+        teamGSL: "JKGSL",
+    },
+    //    ==================== TEAM 39 ====================
+    // Sultanabad JK 1
+    // incomplete
+    {
+        id: "team-39",
+        teamName: "Sultanabad FC JR",
+        teamLogo: "/TEAM39/TEAM39.jpeg",
+        teamCoach: "NANUU",
+        coachNumber: "03554324608",
+        jkLocation: "Sultanabad JK 1",
+        teamGSL: "JKGSL",
+    },
 ];
