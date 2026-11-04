@@ -268,7 +268,7 @@ export const teams = [
         ]
     },
     //    ==================== TEAM 3 ====================
-    // SMS BLUE 
+    // SMS GREEN 
     {
         id: "Team-3",
         teamName: "SMS GREEN",
@@ -1540,7 +1540,7 @@ export const teams = [
         teamLogo: "/TEAM13/ALKHAIRFC.png",
         teamCoach: "Nazir Hussain",
         coachNumber: "03554262490",
-        jkLocation: "",
+        jkLocation: "Zulfiqarabad",
         teamGSL: "JKGSL",
 
         teamPlayers: [
@@ -4260,7 +4260,7 @@ export const teams = [
         teamLogo: "/TEAM35/TEAM35.jpeg",
         teamCoach: "Azhar Maqbool",
         coachNumber: "3555810158",
-        jkLocation: "Danyore JK #7",
+        jkLocation: "Zulfiqarabad",
         teamGSL: "JKGSL",
 
         teamPlayers: [
