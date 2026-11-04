@@ -1886,14 +1886,14 @@ export const teams = [
         substitutePlayers: [
             {
                 id: "substitutePlayer-1-t15",
-                name: "Fahad Shah",
-                fathersName: "Fahad Shah",
+                name: "Eshan Ahmed",
+                fathersName: "Gulam Uddin",
                 contactNumber: "",
-                picture: "/TEAM15/PLAYERS_PICTURES/FAHAD-SHAH.jpeg",
-                bFormPicture: "/TEAM15/PLAYERS_DOCUMENTS/FAHAD-SHAH.jpeg",
-                bFormNumber: "71501-8574398-1",
-                dateOfBirth: "2020-01-01",
-                age: calculateAge("2020-01-01")
+                picture: "/TEAM15/PLAYERS_PICTURES/ESHAN-AHMED.jpeg",
+                bFormPicture: "/TEAM15/PLAYERS_DOCUMENTS/ESHAN-AHMED.jpeg",
+                bFormNumber: "71501-0859588-9",
+                dateOfBirth: "2014-09-05",
+                age: calculateAge("2014-09-05")
             },
             {
                 id: "substitutePlayer-2-t15",
@@ -1919,17 +1919,6 @@ export const teams = [
                 bFormNumber: "71501-0433595-3",
                 dateOfBirth: "2016-05-01",
                 age: calculateAge("2016-05-01")
-            },
-            {
-                id: "Reserveplayer-2-t15",
-                name: "Eshan Ahmed",
-                fathersName: "Gulam Uddin",
-                contactNumber: "",
-                picture: "/TEAM15/PLAYERS_PICTURES/ESHAN-AHMED.jpeg",
-                bFormPicture: "/TEAM15/PLAYERS_DOCUMENTS/ESHAN-AHMED.jpeg",
-                bFormNumber: "71501-0859588-9",
-                dateOfBirth: "2014-09-05",
-                age: calculateAge("2014-09-05")
             }
         ]
     },
@@ -2205,136 +2194,9 @@ export const teams = [
         ]
     },
     //    ==================== TEAM 18 ====================
-    //
-    //AMINABAD FC NOMAL
-    {
-        id: "team-18",
-        teamName: "AMINABAD FC",
-        teamLogo: "/TEAM18/TEAM18.png",
-        teamCoach: "Mehboob Alam",
-        coachNumber: "3452650507",
-        jkLocation: "JK2 Amin-Abad Nomal",
-        teamGSL: "JKGSL",
+    // THIS IS BLANK
 
-        teamPlayers: [
-            {
-                id: "player-1-t18",
-                name: "Riyan Karim",
-                fathersName: "Rahmat Karim",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/RIYAN-KARIM.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/RIYAN-KARIM.jpeg",
-                bFormNumber: "71501-21712140",
-                dateOfBirth: "2016-10-10",
-                age: calculateAge("2016-10-10")
-            },
-            {
-                id: "player-2-t18",
-                name: "Ruhan Karim",
-                fathersName: "Rahmat Karim",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/RUHAN-KARIM.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/RUHAN-KARIM.jpeg",
-                bFormNumber: "71501-2171214-5",
-                dateOfBirth: "2014-09-28",
-                age: calculateAge("2014-09-28")
-            },
-            {
-                id: "player-3-t18",
-                name: "Rafay Ali Baig",
-                fathersName: "Ikram Ullah Baig",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/RAFAY-ALI-BAIG.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/RAFAY-ALI-BAIG.jpeg",
-                bFormNumber: "71501-6215341-7",
-                dateOfBirth: "2014-09-22",
-                age: calculateAge("2014-09-22")
-            },
-            {
-                id: "player-4-t18",
-                name: "Mufeez Ali Baig",
-                fathersName: "Ikram Ullah Baig",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/MUFEEZ-ALI-BAIG.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/MUFEEZ-ALI-BAIG.jpeg",
-                bFormNumber: "71501-6215246-7",
-                dateOfBirth: "2014-09-22",
-                age: calculateAge("2014-09-22")
-            },
-            {
-                id: "player-5-t18",
-                name: "Riaz Karim",
-                fathersName: "Ajaz Karim",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/RIAZ-KARIM.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/RIAZ-KARIM.jpeg",
-                bFormNumber: "71501-3883728-5",
-                dateOfBirth: "2014-10-22",
-                age: calculateAge("2014-10-22")
-            },
-            {
-                id: "player-6-t18",
-                name: "Fahad Shah",
-                fathersName: "Ijlal Shah",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/FAHAD-SHAH.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/FAHAD-SHAH.jpeg",
-                bFormNumber: "71501-8574398-1",
-                dateOfBirth: "2020-01-01",
-                age: calculateAge("2020-01-01")
-            }
-        ],
 
-        substitutePlayers: [
-            {
-                id: "substitutePlayer-1-t18",
-                name: "Fahad Shah",
-                fathersName: "Fahad Shah",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/FAHAD-SHAH.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/FAHAD-SHAH.jpeg",
-                bFormNumber: "71501-8574398-1",
-                dateOfBirth: "2020-01-01",
-                age: calculateAge("2020-01-01")
-            },
-            {
-                id: "substitutePlayer-2-t18",
-                name: "Ridhan Karim",
-                fathersName: "Rahmat Karim",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/RIDHAN-KARIM.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/RIDHAN-KARIM.jpeg",
-                bFormNumber: "71501-0366409-3",
-                dateOfBirth: "2019-04-01",
-                age: calculateAge("2019-04-01")
-            }
-        ],
-
-        reservePlayers: [
-            {
-                id: "Reserveplayer-1-t18",
-                name: "Fareed Ali",
-                fathersName: "Muhammad Ali",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/FAREED-ALI.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/FAREED-ALI.jpeg",
-                bFormNumber: "71501-0433595-3",
-                dateOfBirth: "2016-05-01",
-                age: calculateAge("2016-05-01")
-            },
-            {
-                id: "Reserveplayer-2-t18",
-                name: "Eshan Ahmed",
-                fathersName: "Gulam Uddin",
-                contactNumber: "",
-                picture: "/TEAM18/PLAYERS_PICTURES/ESHAN-AHMED.jpeg",
-                bFormPicture: "/TEAM18/PLAYERS_DOCUMENTS/ESHAN-AHMED.jpeg",
-                bFormNumber: "71501-0859588-9",
-                dateOfBirth: "2014-09-05",
-                age: calculateAge("2014-09-05")
-            }
-        ]
-    },
     //    ==================== TEAM 19 ====================
     // HUDA STRICKERS
     {
@@ -4023,7 +3885,6 @@ export const teams = [
             }
         ]
     },
-
     //    ==================== TEAM 32 ====================
     // AMINABAD JK 
     {
@@ -4165,7 +4026,6 @@ export const teams = [
             }
         ]
     },
-
     //    ==================== TEAM 33 ====================
     // DANYOUOR JK 3 FC BANI SHOOTERS
     {
